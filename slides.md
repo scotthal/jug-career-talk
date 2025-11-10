@@ -154,3 +154,63 @@ them, anyway, I certainly won't judge.  Everyone needs to work.  At least you're
 going in with your eyes open.
 
 -->
+
+---
+
+# Why Does Anyone Hire?
+
+<!--
+
+Ok, Scott.  Enough with the psychology.  How do I get hired?
+
+As a former hiring manager, I can tell you that hiring kinda sucks.  I love the
+part where I get to meet and learn about new people.  I don't so much like the
+hours of paperwork, all done knowing the risk that I might still be hiring the
+wrong person.
+
+So why hire at all?
+
+In short, a hiring manager needs someone to solve an underspecified problem,
+end-to-end, with minimal oversight.  At larger companies, the hiring cycles are
+agonizingly long.  Hiring managers know that the problem that needs to be solve
+may well _completely change_ between the interview and the new hire's first day.
+
+You need to convince the hiring manager that you are _the_ person who can do
+that, ideally _before the interview even happens_.
+
+How do you do that?
+
+-->
+
+---
+
+# Be Generous
+
+<!--
+
+Scott, you're getting squishy again.  Where's the hard-nosed, concrete advice
+about how to.  Get.  The.  Job.
+
+Hear me out.
+
+Especially in a down time like today, your goal is to get as many people as
+possible to associate your face and your name with the idea that _you solve
+underspecified problems with minimal oversight_.
+
+How do you do that?  It couldn't be more obvious!  You do that by figuring out
+what their problems are and solving them with minimal oversight, expecting
+nothing in return.
+
+That's called, "being generous."
+
+You do not have to limit yourself to technical tasks, here.  Remember, hiring
+managers have _underspecified_ problems that _they know will change before your
+first day._
+
+Much of what you do as a practitioner will not be strictly technical.  There are
+vanishly few strictly technical problems in business.
+
+No problem you solve for others is a waste of time.  Every problem you solve
+cements your name and face in someone's mind as a problem solver.
+
+-->
