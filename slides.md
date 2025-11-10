@@ -125,3 +125,32 @@ values. Here are some open-ended questions you can think about to help pull your
 blindfold off and see yourself clearly.
 
 -->
+
+---
+
+# Consider Employer Values
+
+<!--
+
+Some of us are very excited about what large technology employers are up to.
+Some of us are skeptical.  Some of us are _definitely_ grumpy.
+
+I'm not here to dictate your values to you.
+
+Large technology employers have, through their recent actions, made it _very_
+clear what they value and what they don't.
+
+Google used to say, "Respect the user.  Respect the opportunity.  Respect each
+other."  I'll leave it as an exercise for you to determine which of those still
+hold.  I know you can do it!
+
+This is actually great news.  You now have a _very_ clear picture of the values
+held by the largest technology employers.  No one is out there thinking, "Gosh,
+I wonder what Nvidia _really_ values!"
+
+Once you've determined your values, you can compare them to those of the
+employer you're chasing.  If your values are in conflict, and you want to chase
+them, anyway, I certainly won't judge.  Everyone needs to work.  At least you're
+going in with your eyes open.
+
+-->
