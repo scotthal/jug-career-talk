@@ -7,6 +7,7 @@ title: Software Careers in Down Times
 https://scotthal.github.io/jug-career-talk
 
 <!--
+
 I'm going to be talking about managing your software career during a "down
 time," or a time when it is generally difficult to find a job.
 
@@ -23,6 +24,7 @@ The good news is that the most effective strategies for competing in down times
 are no different from the most effective strategies for standing out from the
 crowd in good times.  What changes is that the penalties for failing to use
 these strategies are much harsher in down times.
+
 -->
 
 ---
@@ -40,6 +42,7 @@ I'm sometimes
 [bad at email](https://www-cs-faculty.stanford.edu/~knuth/email.html).
 
 <!--
+
 I have been in this business for 30 years, as an individual contributor and a
 leader, at every conceivable level of abstraction from embedded to Java
 application servers.
@@ -53,6 +56,7 @@ definitely grumpy."
 
 We'll get a little bit into why I'm grumpy in a second, though I promise not to
 turn this talk into a gripe session.
+
 -->
 
 ---
@@ -60,6 +64,7 @@ turn this talk into a gripe session.
 # Consider Your Values
 
 <!--
+
 You need to understand your values to manage your career effectively.  This
 sounds more touchy-feely than practical.  In my years as a manager, I ran a
 number of performance improvement plans and involuntary exits.
@@ -80,6 +85,7 @@ involuntary exit resulted.
 My values are currently in conflict with a those of a lot of Big Tech.  I have
 actually interviewed for a few positions in the last two years.  My lack of
 enthusiasm came through in the interviews.  I didn't get offers.
+
 -->
 
 ---
@@ -89,6 +95,7 @@ enthusiasm came through in the interviews.  I didn't get offers.
 Your _actual_ values, not those imposed on you by others.
 
 <!--
+
 Figuring out what you value is harder than it might first seem.  There are many
 people and groups in your life, many of whom you want to please, who have strong
 opinions about what your values ought to be.
@@ -96,6 +103,7 @@ opinions about what your values ought to be.
 Unfortunately for them, the only person who can determine your values is you.
 You need to spend some introspective time figuring what your _actual_ values
 are, as distinct from what you and others in your life might wish that they are.
+
 -->
 
 ---
@@ -111,7 +119,9 @@ are, as distinct from what you and others in your life might wish that they are.
 - What kinds of side projects do you gravitate to?
 
 <!--
+
 We're all, myself included, pretty good at fooling ourselves as to our
 values. Here are some open-ended questions you can think about to help pull your
 blindfold off and see yourself clearly.
+
 -->
