@@ -184,6 +184,28 @@ How do you do that?
 
 ---
 
+# Meet People
+
+<!--
+
+If you're in person at [B|D]JUG tonight, congratulation!  You're already doing
+this.  You're going out and meeting people.  Try to talk to someone you don't
+know, tonight.
+
+I don't like the term, "Networking," because a lot of people seem to think that
+showing up in person and handing out some business cards means they've checked
+the networking box.  Then they're disappointed when it doesn't result in job
+offers rolling in.
+
+You still have to convince the people you meet that you can solve problems for
+them.
+
+That said, don't negate what you've done being here, tonight.  It's a difficult
+and great first step!
+
+-->
+---
+
 # Be Generous
 
 <!--
