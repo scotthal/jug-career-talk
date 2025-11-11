@@ -76,7 +76,7 @@ enthusiasm will come through in your interview performance.
 
 I have direct experience with both.
 
-s a manager in Boulder, I frequently encountered people who wanted to transfer
+As a manager in Boulder, I frequently encountered people who wanted to transfer
 out of either the Bay Area or New York City, and who "didn't care" what they'd
 be working on, so long as it was in Boulder.  They quickly realized they didn't
 value what they work working on.  Their performance flagged.  More than one
