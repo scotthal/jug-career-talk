@@ -164,7 +164,7 @@ going in with your eyes open.
 The smaller and more local they are
 
 1.  The more they need your help.
-1.  They're less likely they are to be chasing trends.
+1.  The less likely they are to be chasing trends.
 
 </v-click>
 
