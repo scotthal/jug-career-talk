@@ -304,6 +304,33 @@ you communicate three things to people.
 
 ---
 layout: image-left
+image: /psychology-today-generosity-qr.png
+---
+
+# Generosity Resource
+
+https://www.psychologytoday.com/us/blog/from-striving-to-thriving/202510/giving-is-good-for-you
+
+---
+layout: image-right
+image: /how-not-to-build-the-torment-nexus-qr.png
+---
+
+# Value Resource
+
+https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/
+
+---
+layout: image-left
+image: /jug-career-talk-qr.png
+---
+
+# These slides
+
+https://scotthal.github.io/jug-career-talk
+
+---
+layout: image-right
 image: /scotts-signal.png
 ---
 
@@ -311,4 +338,4 @@ image: /scotts-signal.png
 
 scott@hallocks.net
 
-# <- Signal
+# Signal ->
