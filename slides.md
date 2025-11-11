@@ -266,3 +266,49 @@ No problem you solve for others is a waste of time.  Every problem you solve
 cements your name and face in someone's mind as a problem solver.
 
 -->
+
+---
+
+# Be Generous
+
+- Help organize a conference
+- Recruit members for your favorite group
+- Find new digs for your favorite group
+  - Help them move
+- Raise funds for your favorite cause
+  - On the street
+  - Organize the people on the street
+
+<!--
+
+None of these are technical.  All of these will help convince hiring managers to
+hire you for technical positions.
+
+-->
+
+---
+
+# Build Stuff
+
+<!--
+
+Building stuff, on the side, _completely_ and putting it in your portfolio lets
+you communicate three things to people.
+
+1.  I value the thing that I am building.
+1.  I can finish what I start.  This is a complete and professional package
+    ready for someone else to use or own.
+1.  I can solve a problem end-to-end by myself.
+
+-->
+
+---
+layout: image-left
+image: /scotts-signal.png
+---
+
+# Scott Hallock
+
+scott@hallocks.net
+
+# <- Signal
