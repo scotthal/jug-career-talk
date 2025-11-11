@@ -311,14 +311,20 @@ image: /psychology-today-generosity-qr.png
 
 https://www.psychologytoday.com/us/blog/from-striving-to-thriving/202510/giving-is-good-for-you
 
+![Giving is Good for You](/psychology-today-preview.png)
+
 ---
 layout: image-right
 image: /how-not-to-build-the-torment-nexus-qr.png
+class: text-right
 ---
 
 # Value Resource
 
 https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/
+
+![How Not to Build the Torment
+Nexus](/how-not-to-build-the-torment-nexus-preview.png)
 
 ---
 layout: image-left
@@ -332,6 +338,7 @@ https://scotthal.github.io/jug-career-talk
 ---
 layout: image-right
 image: /scotts-signal.png
+class: text-right
 ---
 
 # Scott Hallock
