@@ -157,6 +157,35 @@ going in with your eyes open.
 
 ---
 
+# You Don't Have to be in the Technology Industry to Practice Your Craft
+
+<v-click>
+
+The smaller and more local they are
+
+1.  The more they need your help.
+1.  They're less likely they are to be chasing trends.
+
+</v-click>
+
+<!--
+
+Everyone depends on information technology at this point.  As large tech
+platforms abandon smaller users to chase trillion dollar trends, normal people
+feel afraid and abandoned.
+
+_You can help them_.
+
+These people will never use the word, "agentic," at you.  They just want their
+online ordering to keep working.  They'll be grateful for your skills.
+
+If you want to go larger-scale, there are still plenty of opportunities in heavy
+industry, clean tech, health care, and other fields.
+
+-->
+
+---
+
 # Why Does Anyone Hire?
 
 <!--
