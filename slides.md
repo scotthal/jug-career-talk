@@ -346,3 +346,19 @@ class: text-right
 scott@hallocks.net
 
 # Signal ->
+
+---
+layout: image-left
+image: /mylifeprompted-qr.png
+---
+
+# mylifeprompted.com
+
+- Plug for my good friend, Emily.
+  - From which I derive no financial benefit!
+- Prompted writing workshop to help you process a layoff and plan your next
+  steps.
+- I am 1/3rd through the workshop and it has been very helpful for me.  It got
+  me unstuck on writing.
+- New start dates will be released Saturday, but you can email Emily and ask for
+  start dates right away.
