@@ -217,7 +217,7 @@ How do you do that?
 
 <!--
 
-If you're in person at [B|D]JUG tonight, congratulation!  You're already doing
+If you're in person at [B|D]JUG tonight, congratulations!  You're already doing
 this.  You're going out and meeting people.  Try to talk to someone you don't
 know, tonight.
 
@@ -260,7 +260,7 @@ managers have _underspecified_ problems that _they know will change before your
 first day._
 
 Much of what you do as a practitioner will not be strictly technical.  There are
-vanishly few strictly technical problems in business.
+vanishingly few strictly technical problems in business.
 
 No problem you solve for others is a waste of time.  Every problem you solve
 cements your name and face in someone's mind as a problem solver.
